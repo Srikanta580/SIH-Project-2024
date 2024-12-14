@@ -1,0 +1,56 @@
+{
+  "welcome to user dashboard !": "ব্যবহারকারী ড্যাশবোর্ডে স্বাগতম!",
+  "all systems are running smoothly !": "সব সিস্টেম মসৃণভাবে চলছে |",
+  "CURRENT STATUS": "বর্তমান অবস্থা",
+  "check": "চেক করুন",
+  "pending actions": "অপেক্ষমান পদক্ষেপ",
+  "Submission progress": "জমা দেওয়ার অগ্রগতি",
+  "Latest": "সর্বশেষ",
+  "click here to know more": "আরও জানতে এখানে ক্লিক করুন",
+  "documents": "নথি",
+  "no pending actions": "কোনো অসম্পূর্ণ কার্যক্রম নেই",
+  "Here you can check current status of your latest application": "এখানে আপনি আপনার সর্বশেষ আবেদনটির বর্তমান অবস্থা পরীক্ষা করতে পারেন",
+  "Here you can check pending actions from your latest application": "এখানে আপনি আপনার সর্বশেষ আবেদন থেকে অসম্পূর্ণ কার্যক্রম পরীক্ষা করতে পারেন",
+  "Here you can check submission progress from your latest application": "এখানে আপনি আপনার সর্বশেষ আবেদনটির জমা দেওয়ার অগ্রগতি পরীক্ষা করতে পারেন",
+  "Here you can check your documents from your latest application": "এখানে আপনি আপনার সর্বশেষ আবেদন থেকে আপনার নথিপত্র পরীক্ষা করতে পারেন",
+  "3 unread notifications !": "৩টি অপঠিত বিজ্ঞপ্তি আছে !",
+  "You have": "আপনার ",
+  "Document": "নথি",
+  "Application ID": "আবেদন আইডি",
+  "Startup name": "স্টার্টআপ নাম",
+  "Upload date": "আপলোড তারিখ",
+  "Status": "অবস্থা",
+  "Actions": "ক্রিয়াকলাপ",
+  "Next": "পরবর্তী",
+  "Back": "পেছনে",
+  "Skip": "এড়িয়ে যান",
+  "Finish": "শেষ",
+  "drafted": "খসড়া করা হয়েছে",
+  "submitted": "জমা দেওয়া হয়েছে",
+  "reviewed": "পর্যালোচনা করা হয়েছে",
+  "approved": "অনুমোদিত",
+
+  "By clicking here you can start new application": "এখানে ক্লিক করে আপনি নতুন আবেদন শুরু করতে পারেন",
+  "here you can view, edit or withdraw you application": "এখানে আপনি আপনার আবেদন দেখতে, সম্পাদনা করতে বা প্রত্যাহার করতে পারেন",
+
+  "here you can check details of your filled form": "এখানে আপনি আপনার পূরণ করা ফর্মের বিশদ দেখতে পারেন",
+
+  "Here you can check the current progress of application in details": "এখানে আপনি আবেদনটির বর্তমান অগ্রগতি বিস্তারিতভাবে পরীক্ষা করতে পারেন",
+
+  "Check if any documents need any action": "পরীক্ষা করুন যদি কোনো নথির জন্য কোনো পদক্ষেপ প্রয়োজন হয়",
+
+  "my applications": "আমার আবেদনপত্র",
+
+  "all applications and their details": "সমস্ত আবেদনপত্র এবং তাদের বিশদ",
+
+  "new application": "নতুন আবেদন",
+
+  "APPLICATION LIST": "আবেদন তালিকা",
+
+  "Submission date": "জমা দেওয়ার তারিখ",
+
+  "DETAILS": "বিস্তারিত",
+  "progress overview": "অগ্রগতির সংক্ষিপ্তসার",
+  "document status": "নথির অবস্থা",
+  "Messages and reviews": "বার্তা এবং পর্যালোচনা"
+}

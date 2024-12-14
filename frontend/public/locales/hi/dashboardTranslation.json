@@ -1,0 +1,68 @@
+{
+  "welcome to user dashboard !": "उपयोगकर्ता डैशबोर्ड में आपका स्वागत है!",
+  "all systems are running smoothly !": "सभी सिस्टम सुचारू रूप से चल रहे हैं",
+  "CURRENT STATUS": "वर्तमान स्थिति",
+  "check": "जांचें",
+  "pending actions": "लंबित कार्य",
+  "Submission progress": "प्रस्तुति प्रगति",
+  "Latest": "नवीनतम",
+  "click here to know more": "अधिक जानने के लिए यहां क्लिक करें",
+  "documents": "दस्तावेज़",
+  "no pending actions": "कोई लंबित कार्य नहीं",
+  "Here you can check current status of your latest application": "यहां आप अपने नवीनतम आवेदन की वर्तमान स्थिति देख सकते हैं",
+
+  "Here you can check pending actions from your latest application": "यहां आप अपने नवीनतम आवेदन से लंबित कार्य देख सकते हैं",
+
+  "Here you can check submission progress from your latest application": "यहां आप अपने नवीनतम आवेदन की सबमिशन प्रगति देख सकते हैं",
+
+  "Here you can check your documents from your latest application": "यहां आप अपने नवीनतम आवेदन के दस्तावेज देख सकते हैं",
+
+  "3 unread notifications !": "3 अपठित सूचनाएं है !",
+
+  "You have": "आपके पास ",
+
+  "Document": "दस्तावेज",
+
+  "Application ID": "आवेदन आईडी",
+
+  "Startup name": "स्टार्टअप का नाम",
+
+  "Upload date": "अपलोड की तारीख",
+
+  "Status": "स्थिति",
+
+  "Actions": "क्रियाएँ",
+  "Next": "आगे",
+  "Back": "पीछे",
+  "Skip": "छोड़ें",
+  "Finish": "समाप्त",
+  "drafted": "ड्राफ्ट किया गया",
+  "submitted": "प्रस्तुत किया गया",
+  "reviewed": "समीक्षा की गई",
+  "approved": "मंज़ूर किया गया",
+
+  "By clicking here you can start new application": "यहां क्लिक करके आप नया आवेदन शुरू कर सकते हैं",
+
+  "here you can view, edit or withdraw you application": "यहां आप अपने आवेदन को देख सकते हैं, संपादित कर सकते हैं या वापस ले सकते हैं",
+
+  "here you can check details of your filled form": "यहां आप अपने भरे हुए फॉर्म का विवरण देख सकते हैं",
+
+  "Here you can check the current progress of application in details": "यहां आप आवेदन की वर्तमान प्रगति का विवरण देख सकते हैं",
+
+  "Check if any documents need any action": "जांचें कि क्या किसी दस्तावेज़ पर कोई कार्यवाही करनी है",
+
+  "my applications": "मेरे आवेदन",
+
+  "all applications and their details": "सभी आवेदन और उनके विवरण",
+
+  "new application": "नया आवेदन",
+
+  "APPLICATION LIST": "आवेदन सूची",
+
+  "Submission date": "जमा करने की तारीख",
+
+  "DETAILS": "विवरण",
+  "progress overview": "प्रगति का अवलोकन",
+  "document status": "दस्तावेज़ की स्थिति",
+  "Messages and reviews": "संदेश और समीक्षाएं"
+}

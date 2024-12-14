@@ -1,0 +1,115 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn {
+    @apply h-9 text-sm text-black border capitalize font-semibold px-12 py-1.5 rounded-[0.250rem];
+  }
+  .btn-primary {
+    @apply h-9 text-sm text-white capitalize font-semibold px-12 py-1.5 bg-violet-500/70 hover:bg-violet-500 rounded-[0.250rem] transition-all ease-in-out duration-300;
+  }
+  .btn-secondary {
+    @apply h-9 text-sm text-violet-500 capitalize font-semibold px-12 py-1.5 bg-white hover:bg-violet-500 hover:text-white border border-violet-500 rounded-[0.250rem] transition-all ease-in-out duration-300;
+  }
+  .dashboard-box {
+    @apply flex flex-col justify-start gap-y-3 items-start p-4 uppercase bg-white border border-gray-300 shadow-md rounded;
+  }
+  .gridBox {
+    @apply flex flex-col justify-between gap-y-3 items-start p-4 uppercase bg-white border border-gray-300 shadow-md rounded;
+  }
+  .gridBoxLink {
+    @apply font-semibold text-gray-400 cursor-pointer;
+  }
+  .statusBar {
+    @apply flex justify-between items-center px-6 w-full h-[3rem] bg-gray-100 text-red-500 font-semibold shadow;
+  }
+  .welcomeText {
+    @apply text-4xl capitalize font-semibold;
+  }
+  .welcomeSubText {
+    @apply capitalize font-semibold mt-1.5;
+  }
+  .greenSign {
+    @apply px-2 py-1 uppercase font-medium bg-green-200 text-green-500;
+  }
+  .yellowSign {
+    @apply px-2 py-1 uppercase font-medium bg-yellow-100 text-yellow-500;
+  }
+  .redSign {
+    @apply px-2 py-1 uppercase font-medium bg-gray-200 text-red-500;
+  }
+  .customTourTooltip {
+    @apply p-5 capitalize text-xl;
+  }
+}
+
+@layer utilities {
+  .alerts-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-height: 300px;
+    overflow-y: auto;
+  }
+
+  .alert {
+    display: flex;
+    align-items: center;
+    gap: 0 40px;
+    padding: 8px 12px;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+
+  .approval-alert {
+    @apply alert;
+    background-color: rgb(110, 175, 110);
+  }
+
+  .reminder-alert {
+    @apply alert;
+    background-color: rgb(175, 110, 110);
+  }
+
+  .status-alert {
+    @apply alert;
+    background-color: rgb(175, 168, 110);
+  }
+
+  .alert-icon {
+    margin-right: 10px;
+    font-size: 18px;
+  }
+
+  .alert-text {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 600;
+    flex-grow: 1;
+  }
+
+  .alert-time {
+    margin: 0;
+    font-size: 12px;
+  }
+
+  .scrollbar::-webkit-scrollbar {
+    width: 0px;
+    height: 20px;
+  }
+
+  .scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .scrollbar::-webkit-scrollbar-thumb {
+    background: transparent;
+    border: 0px solid #f6f7ed;
+  }
+
+  .scrollbar::-webkit-scrollbar-thumb:hover {
+    background: transparent;
+  }
+}

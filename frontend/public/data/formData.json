@@ -1,0 +1,159 @@
+[
+  {
+    "step": "Step 1",
+    "data": [
+      {
+        "heading": "Basic Startup Information",
+        "label": "Startup Name",
+        "id": "startupName",
+        "value": "Innovate Health"
+      },
+      {
+        "label": "Date of Establishment",
+        "id": "dateOfEstablishment",
+        "value": "2021-05-12"
+      },
+      {
+        "label": "Startup Category",
+        "id": "startupCategory",
+        "value": "Ayurveda"
+      },
+      {
+        "label": "Startup Description",
+        "id": "startupDescription",
+        "value": "A startup focused on holistic health solutions."
+      },
+      {
+        "label": "Sector/Field of Work",
+        "id": "sectorField",
+        "value": "Herbal Medicine"
+      }
+    ]
+  },
+  {
+    "step": "Step 2",
+    "data": [
+      {
+        "heading": "Founder Details",
+        "label": "Founder/Co-Founder Name",
+        "id": "founderName",
+        "value": "Rohit Sharma"
+      },
+      {
+        "label": "Designation",
+        "id": "designation",
+        "value": "CEO"
+      },
+      {
+        "label": "Contact Details",
+        "id": "contactDetails",
+        "value": "rohit@example.com"
+      },
+      {
+        "label": "LinkedIn Profile",
+        "id": "linkedInProfile",
+        "value": "https://linkedin.com/in/rohit-sharma"
+      }
+    ]
+  },
+  {
+    "step": "Step 3",
+    "data": [
+      {
+        "heading": "Business Registration Details",
+        "label": "Registration Type",
+        "id": "registrationType",
+        "value": "Private Limited"
+      },
+      {
+        "label": "Registration Number",
+        "id": "registrationNumber",
+        "value": "1234567890"
+      },
+      {
+        "label": "Registered Address",
+        "id": "registeredAddress",
+        "value": "123 Health Street, New Delhi"
+      },
+      {
+        "label": "Business PAN",
+        "id": "businessPan",
+        "value": "ABCDE1234F"
+      }
+    ]
+  },
+  {
+    "step": "Step 4",
+    "document": "missing doc",
+    "data": [
+      {
+        "heading": "Document Upload",
+        "label": "Business Registration Certificate",
+        "id": "registrationCertificate",
+        "value": "registration_certificate.pdf"
+      },
+      {
+        "label": "Founder ID Proofs",
+        "id": "founderIdProofs",
+        "value": "founder_id_proof.pdf"
+      },
+      {
+        "label": "Startup Pitch Deck/Presentation",
+        "id": "pitchDeck",
+        "value": "pitch_deck.pdf"
+      },
+      {
+        "label": "AYUSH Sector Specific Licenses",
+        "id": "ayushLicenses",
+        "value": "ayush_license.pdf"
+      },
+      {
+        "label": "Business Details",
+        "id": "supportingDocuments",
+        "value": "-"
+      }
+    ]
+  },
+  {
+    "step": "Step 5",
+    "data": [
+      {
+        "heading": "AYUSH Compliance",
+        "label": "AYUSH Approval Status",
+        "id": "ayushApprovalStatus",
+        "value": "Approved"
+      },
+      {
+        "label": "Compliance Certifications",
+        "id": "complianceCertifications",
+        "value": "compliance_certificate.pdf"
+      },
+      {
+        "label": "Regulatory Compliance Checklist",
+        "id": "regulatoryChecklist",
+        "value": true
+      }
+    ]
+  },
+  {
+    "step": "Step 6",
+    "data": [
+      {
+        "heading": "Financial Details (Optional)",
+        "label": "Investment Raised",
+        "id": "investmentRaised",
+        "value": 5000000
+      },
+      {
+        "label": "Annual Turnover",
+        "id": "annualTurnover",
+        "value": 10000000
+      },
+      {
+        "label": "Bank Account Details",
+        "id": "bankDetails",
+        "value": "Bank of India, A/C No: 1234567890"
+      }
+    ]
+  }
+]

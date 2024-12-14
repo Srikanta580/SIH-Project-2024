@@ -1,0 +1,50 @@
+[
+  {
+    "supportType": "Technical Support",
+    "heading": "Technical Assistance",
+    "description": "Get help with technical issues related to the portal, applications, or system errors.",
+    "icon": "../../src/assets/gear.jpg"
+  },
+  {
+    "supportType": "Application Guidance",
+    "heading": "Application Help",
+    "description": "Find step-by-step guidance for filling out and submitting your application.",
+    "icon": "../../src/assets/application.jpg"
+  },
+  {
+    "supportType": "Compliance Support",
+    "heading": "Compliance Assistance",
+    "description": "Learn about compliance requirements and get help with reviews and verifications.",
+    "icon": "../../src/assets/Checklist.jpg"
+  },
+  {
+    "supportType": "Document Upload Help",
+    "heading": "Document Assistance",
+    "description": "Need help uploading documents? We’re here to assist with technical and format issues.",
+    "icon": "../../src/assets/cloud.jpg"
+  },
+  {
+    "supportType": "User Account Issues",
+    "heading": "Account Support",
+    "description": "Help with account management, password recovery, or updating your user profile.",
+    "icon": "../../src/assets/Account.png"
+  },
+  {
+    "supportType": "Payment and Billing",
+    "heading": "Payment Queries",
+    "description": "Get assistance with billing, payment issues, and transaction-related queries.",
+    "icon": "../../src/assets/payment.jpg"
+  },
+  {
+    "supportType": "Feedback & Suggestions",
+    "heading": "Feedback Support",
+    "description": "Share your thoughts or suggestions to improve the system and services.",
+    "icon": "../../src/assets/chatbubble.jpg"
+  },
+  {
+    "supportType": "General Inquiries",
+    "heading": "General Support",
+    "description": "For any other questions or issues not covered in the sections above.",
+    "icon": "../../src/assets/question.jpg"
+  }
+]
